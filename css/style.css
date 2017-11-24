@@ -48,8 +48,7 @@ body {
   position: relative;
 }
 
-
-.site-nav>ul>li:hover .sub-item {
+.site-nav> ul > li:hover .sub-item {
   visibility: visible;
 }
 
